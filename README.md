@@ -1,2 +1,5 @@
 # TermDepositMarketing_I7OvicaXDeqtdSjB
-Apziva Project 2: Predict which customers are likely to subscribe to a term deposit product.
+
+A particular bank in the European banking market wants to increase the number of subscribers to their term deposit product. This project allows the bank to determine the profiles of the subscribers, as well as who is likely to subscribe to the product.
+
+Finally, there is a dashboard (in progress) that allows the bank to visualize their customer profiles.
